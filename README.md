@@ -14,6 +14,4 @@ My name is Jane, and I'm a Master's student at the University of Chicago studyin
 
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/leecuc/ | Email: gayounglee2021@gmail.com
 
-😄 Pronouns: She/Her
-
 ⚡ Fun fact: I’ve lived in six countries, giving me a unique global perspective that I love bringing to my work!
