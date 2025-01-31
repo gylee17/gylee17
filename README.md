@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Jane 👋
 
-My name is Jane, and I'm a Master's student at the University of Chicago studying data science.
+I'm a Master's student at the University of Chicago studying data science.
 
 🔭 I’m currently working on refining data-driven projects, including SQL-based data analysis and visualization for real-world datasets.
 
